@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/warizan-visual-trainer/warizan-visual-trainer/'
+  base: '/warizan-visual-trainer/'
 })
