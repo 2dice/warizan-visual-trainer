@@ -6,6 +6,6 @@ export default defineConfig({
   base: './',
     build: {
         //base: '/warizan-visual-trainer/',
-        //outDir: '../docs', //出力場所の指定
+        outDir: '../docs', //出力場所の指定
     },
 })
